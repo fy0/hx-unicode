@@ -1,0 +1,18 @@
+{
+    "name": "hxUnicode",
+    "url": "https://github.com/fy0/hx-unicode",
+    "license": "MIT",
+    "tags": [
+        "Unicode",
+        "port"
+    ],
+    "description": "provides data and functions to test some properties of Unicode code points. It's port of golang's unicode",
+    "version": "0.0.2",
+    "classPath": "src/",
+    "releasenote": "Initial release, everything is working correctly.",
+    "contributors": [
+        "fy0"
+    ],
+    "dependencies": {
+    }
+}
